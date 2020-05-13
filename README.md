@@ -5,4 +5,4 @@ Visualização das análises feitas com Jupyter Notebook em python
 * [Desafio 2 - Estatisca](https://github.com/LucasImpieri/Aceleradev_Datascience/blob/master/Desafio2_Estatisca/Desafio%202.ipynb)
 * [Desafio 3 - Probabilidade e Estatística](https://github.com/LucasImpieri/Aceleradev_Datascience/blob/master/Desafio3_Probabilidade_Estatistica/main.ipynb)
 * [Desafio 4 - Probabilidade e Estatística](https://github.com/LucasImpieri/Codenation_Aceleradev_Datascience/blob/master/Desafio4_Probabilidade_Estatistica/main.ipynb)
-* [Desafio 5 -_Redução de dimensionalidade PCA e Seleção de variáveis RFE](https://github.com/LucasImpieri/Codenation_Aceleradev_Datascience/blob/master/Desafio5_Reducao_de_dimensionalidade_PCA_e_Selecao_de_variaveis_RFE/main.ipynb)
+* [Desafio 5 - Redução de dimensionalidade PCA e Seleção de variáveis RFE](https://github.com/LucasImpieri/Codenation_Aceleradev_Datascience/blob/master/Desafio5_Reducao_de_dimensionalidade_PCA_e_Selecao_de_variaveis_RFE/main.ipynb)
